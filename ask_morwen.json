@@ -1,7 +1,7 @@
 {
     "type": "micro",
     "wake_word": "Ask Morwen",
-    "author": "Raymond Mac",
+    "author": "RamyBuilds",
     "model": "ask_morwen.tflite",
     "trained_languages": ["en"],
     "version": 2,
