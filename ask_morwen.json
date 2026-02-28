@@ -4,7 +4,7 @@
     "author": "Raymond Mac",
     "model": "ask_morwen.tflite",
     "trained_languages": ["en"],
-    "Version": 2,
+    "version": 2,
     "micro": {
     "probability_cutoff": 0.9,
     "sliding_window_size": 5,
